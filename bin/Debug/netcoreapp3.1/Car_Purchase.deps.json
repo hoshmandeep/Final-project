@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Car_Purchase/1.0.0": {
+        "runtime": {
+          "Car_Purchase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car_Purchase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
